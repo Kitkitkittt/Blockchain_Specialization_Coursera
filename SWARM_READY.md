@@ -21,9 +21,9 @@ If a `swarm-ready` skill is installed, load it. Otherwise execute the documented
 
 ## Repository starting point
 
-Read: [README.md](README.md).
+Start at the [assignment index](README.md#2-assignment-solutions). The Course 4 Takeaways links point to week directories in this checkout.
 
-Continue an existing approved issue or a clearly scoped user objective after inspecting the source map below. If none is selected, return the smallest useful improvement and its verifier as the handoff; do not begin a portfolio-wide rewrite.
+Continue an existing approved issue or a clearly scoped user objective after checking the relevant paths in the checkout. If none is selected, return the smallest useful improvement and its verifier as the handoff; do not begin a portfolio-wide rewrite.
 
 Start with one writer. Add workers only for disjoint changes or independent experiments whose results can be checked separately. Keep shared interfaces and final integration with one owner.
 
@@ -41,7 +41,15 @@ The base above is an inspection snapshot, not a permanent working branch. Refres
 
 ## Verification starting point
 
-No executable acceptance command was established by this bounded source inspection. Read `README.md` and record the narrowest existing check before implementation. Do not invent a `test` command or infer that the repository has no tests from this gap. For a documentation-only task, check links, factual source anchors and whitespace; do not build unrelated application code.
+For the Course 4 Takeaways links, compare the README destinations with the Git tree from the repository root:
+
+```sh
+git --no-lazy-fetch ls-tree HEAD -- \
+  Course_4_Blockchain_platforms/Week_1 Course_4_Blockchain_platforms/Week_2 \
+  Course_4_Blockchain_platforms/Week_3 Course_4_Blockchain_platforms/Week_4
+```
+
+Expect four `tree` entries, one for each Takeaways destination. This is a documentation check; it does not run contracts, deploy coursework, or contact a chain.
 
 ## Required handoff result
 
