@@ -12,6 +12,8 @@ This repo contains all my work for this specialization. All the notes, reference
 
 This is the first time I have studied and worked with blockchain, so feel free to contact me if you find any mistakes or want to add something to make the repository more complete by creating pull requests. Thank you!
 
+For repository maintenance, see the [swarm-ready handoff](SWARM_READY.md).
+
 ## 2. Assignment Solutions
 
 #### 2.1. Course 1: Blockchain Basics 
@@ -47,13 +49,13 @@ This is the first time I have studied and worked with blockchain, so feel free t
 
 #### 2.4. Course 4: Blockchain platforms
 
-- Week 1 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_1/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Course_4_Blockchain_platforms/Week_1) 
+- Week 1 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_1/Assignments) | [Takeaways](Course_4_Blockchain_platforms/Week_1)
 
-- Week 2 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_2/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Course_4_Blockchain_platforms/Week_2) 
+- Week 2 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_2/Assignments) | [Takeaways](Course_4_Blockchain_platforms/Week_2)
 
-- Week 3 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_3/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Course_4_Blockchain_platforms/Week_3) 
+- Week 3 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_3/Assignments) | [Takeaways](Course_4_Blockchain_platforms/Week_3)
 
-- Week 4 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_4/Assignments) | [Takeaways](https://github.com/linhnt31/Blockchain_Specialization_Coursera/blob/master/Course_4_Blockchain_platforms/Week_4) 
+- Week 4 - Permissioned blockchains: [Quiz Solution](https://github.com/linhnt31/Blockchain_Specialization_Coursera/tree/master/Course_4_Blockchain_platforms/Week_4/Assignments) | [Takeaways](Course_4_Blockchain_platforms/Week_4)
 
 ## 3. State Of The Arts, Key Concepts and Implementations 
 
